@@ -1,1 +1,1 @@
-Projeto sendo desenvilvido
+Projeto sendo desenvolvido
